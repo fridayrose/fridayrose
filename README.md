@@ -1,0 +1,2 @@
+- Hi, I’m @fridayrose, use all pronouns
+- I’m studying Circular Engineering in Maastricht and use matlab and python so will probably have code from those
